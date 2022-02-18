@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+    color: rgb(68, 3, 248);
+}
+
+a {
+    color: rgb(241, 9, 9);
+}
+
+h1 {
+    color: chartreuse;
+}
+
+.intro {
+    font-size: 70px;
+}
+
+#earth-title {
+    color: lightgreen;
+}
+
